@@ -1,6 +1,16 @@
 <application>
-  <component name="VimSettings">
-    <state version="5" enabled="false" />
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
@@ -15,11 +25,101 @@
         <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor />
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1567076533354">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1567076562300">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Test.py" timestamp="1567054895581">
+        <mark key="[" line="0" column="2" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Test/Test.py" timestamp="1567076967456">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="13" />
+        <mark key="^" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/Test/Test.py" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="2">
+        <text>ch = input(&quot;Enter a char&quot;)
+print(ch)</text>
+      </register>
+      <register name="j" type="4">
+        <text>kgwjk</text>
+      </register>
+      <register name="-" type="4">
+        <text />
+      </register>
+      <register name="0" type="4">
+        <text>)</text>
+      </register>
+      <register name="1" type="2">
+        <text>ch = input(&quot;Enter a char&quot;)
+print(ch)</text>
+      </register>
+      <register name="2" type="2">
+        <text>x =int(input(&quot;Enter first number&quot;))
+y =int(input(&quot;Enter second number&quot;))
+z= x + y
+print(z)</text>
+      </register>
+      <register name="3" type="2">
+        <text>x =int(input(&quot;Enter first number&quot;))
+y =int(input(&quot;Enter second number&quot;))
+z= x + y
+print(z)</text>
+      </register>
+      <register name="4" type="2">
+        <text>ddghdfhfdh</text>
+      </register>
+      <register name="5" type="2">
+        <text>t itput(&quot;Enter 1st number&quot;))
+a =int(x)
+y = input(&quot;Enter 2nd numbeg&quot;g
+
+jrint(z)</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text>x =(int input(&quot;Enter 1st number&quot;))
+a =int(x)
+y = input(&quot;Enter 2nd numbeg&quot;)
+b =int(y)
+
+print(z)</text>
+      </register>
+      <register name="8" type="2">
+        <text>b rghpi4hpihpi34htpihpihp4i3hpij</text>
+      </register>
+      <register name="9" type="2">
+        <text>a =int(x)</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="false" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
-      <template-selectmode enabled="false" />
     </notifications>
   </component>
 </application>
